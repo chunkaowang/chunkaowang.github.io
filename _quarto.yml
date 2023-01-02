@@ -3,11 +3,16 @@ project:
 
 website:
   title: "LMMQG"
-  # navbar:
-    # left:
-      # - href: index.qmd
-        # text: Home
-      # - about.qmd
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - sidebar:Basics
+      # - sidebar:howto
+      # - sidebar:fundamentals
+      # - sidebar:reference
   sidebar:
     style: "docked"
     search: true
