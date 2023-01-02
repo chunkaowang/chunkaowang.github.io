@@ -17,7 +17,8 @@ website:
     style: "docked"
     search: true
     contents:
-      - section: "Basics"
+      - id: Basics
+        section: "Basics"
         contents:
           - index.qmd
           # - basics-knitr.qmd
