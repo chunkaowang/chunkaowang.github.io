@@ -2,6 +2,5 @@
 title: "LMMQG"
 ---
 
-This is a Quarto website.
+This is a website for linear mixed model and quantitative genetics.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
