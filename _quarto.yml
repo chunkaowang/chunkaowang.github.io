@@ -9,7 +9,7 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - sidebar:Basics
+      # - sidebar:Basics
       # - sidebar:howto
       # - sidebar:fundamentals
       # - sidebar:reference
@@ -17,10 +17,12 @@ website:
     style: "docked"
     search: true
     contents:
-      - id: Basics
-        section: "Basics"
+      - section: "Introduction" 
         contents:
           - index.qmd
+      - section: "Quantitative Genetics"
+        contents:
+          - basic_concept_QG.qmd
           # - basics-knitr.qmd
           # - basics-jupyter.qmd
       # - section: "Layout"
