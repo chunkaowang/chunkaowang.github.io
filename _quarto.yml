@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "LMMQG_old"
+  title: "LMMQG"
   navbar:
     left:
       - href: index.qmd
