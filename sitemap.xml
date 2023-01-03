@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://chunkaowang.github.io/about.html</loc>
-    <lastmod>2023-01-02T03:50:35.385Z</lastmod>
+    <lastmod>2023-01-03T01:20:28.400Z</lastmod>
   </url>
   <url>
     <loc>https://chunkaowang.github.io/index.html</loc>
-    <lastmod>2023-01-02T03:50:35.653Z</lastmod>
+    <lastmod>2023-01-03T01:20:28.786Z</lastmod>
   </url>
   <url>
     <loc>https://chunkaowang.github.io/basic_concept_QG.html</loc>
-    <lastmod>2023-01-02T03:50:35.945Z</lastmod>
+    <lastmod>2023-01-03T01:20:29.142Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chunkaowang.github.io/basic_concept_LMM.html</loc>
+    <lastmod>2023-01-03T01:20:29.406Z</lastmod>
   </url>
 </urlset>
