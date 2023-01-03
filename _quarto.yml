@@ -25,9 +25,9 @@ website:
           - basic_concept_QG.qmd
           # - basics-knitr.qmd
           # - basics-jupyter.qmd
-      # - section: "Layout"
-        # contents:
-          # - layout.qmd
+      - section: "Linear Mixed Model"
+        contents:
+          - basic_concept_LMM.qmd
           # - layout-knitr.qmd
           # - layout-jupyter.qmd
 
