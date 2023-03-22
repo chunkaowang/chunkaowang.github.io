@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "mysite",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Use Quarto to Render\n1. Edit .qmd files and _quarto.yml\n2. Close folder in vscode\n3. Run 'quarto render' in terminal\n4. Reopen folder in vscode and git files\n5. Open <https://chunkaowang.github.io/>"
   },
   {
     "objectID": "python.html",
