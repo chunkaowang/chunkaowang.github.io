@@ -12,5 +12,12 @@
     "title": "mysite",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "python.html",
+    "href": "python.html",
+    "title": "Python",
+    "section": "",
+    "text": "Cluster Correlation Matrix\ncluster correlation matrix: https://wil.yegelwel.com/cluster-correlation-matrix/"
   }
 ]

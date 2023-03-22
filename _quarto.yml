@@ -18,9 +18,9 @@ website:
           - index.qmd
           # - basics-knitr.qmd
           # - basics-jupyter.qmd
-      # - section: "Layout"
-        # contents:
-          # - layout.qmd
+      - section: "Languages"
+        contents:
+          - python.qmd
           # - layout-knitr.qmd
           # - layout-jupyter.qmd
 
