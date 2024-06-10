@@ -9,7 +9,7 @@ format:
     toc: true
 
 website:
-  title: "chunkaowang.github.io"
+  title: "Chunkao Wang's Website"
   navbar:
     left:
       - href: index.qmd
