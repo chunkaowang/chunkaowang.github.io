@@ -2,14 +2,6 @@ project:
   type: website
   output-dir: docs
 
-website:
-  title: "chunkaowang.github.io"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
 format:
   html:
     theme: cosmo
@@ -17,6 +9,12 @@ format:
     toc: true
 
 website:
+  title: "chunkaowang.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
   sidebar:
     style: "docked"
     search: true
@@ -30,4 +28,4 @@ website:
         contents:
           # - layout.qmd
           # - layout-knitr.qmd
-          # - layout-jupyter.qmd
+          # - layout-jupyter.qmd  
