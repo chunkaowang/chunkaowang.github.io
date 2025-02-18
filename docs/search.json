@@ -4,7 +4,10 @@
     "href": "index.html",
     "title": "Chunkao Wang’s Personal Website",
     "section": "",
-    "text": "This is my personal website."
+    "text": "This is my personal website.",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "about.html",
